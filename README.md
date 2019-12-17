@@ -16,7 +16,7 @@ Kurset vil bruke Jupyter Notebook, et web-basert rammeverk for å skrive og pres
 
 Gjennom kurset vil du arbeide med notebooks som inneholder diverse preprert materiale og kode-oppgaver. *Det er anbefalt at du lager kopier av de orginale notebooks før du editerer*. Du kan f.eks. følge konvensjonen `my_[navn_på_original_notebook].ipynb`. 
 
-For å en ikke-interaktiv fremstilling av kursets notebooks, trykk [her]((https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2020/blob/master/notebooks.ipynb). 
+For en ikke-interaktiv fremstilling av kursets notebooks, trykk [her](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2020/blob/master/notebooks.ipynb). 
 
 For å kjøre notebooksene interaktivt uten å måtte installere software lokalt kan du bruke vår Binder: 
 
