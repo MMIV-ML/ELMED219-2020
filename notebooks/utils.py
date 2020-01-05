@@ -7,7 +7,7 @@ from matplotlib.colors import ListedColormap
 # Code adapted from http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html
 
 
-def plot_confusion_matrix(cm, classes, ax=None,
+def plot_confusion_matrix(cm, classes, ax=None,figsize=(8,6),
                           title='Confusion matrix',
                           cmap=plt.cm.Blues, labels=True):
     """
@@ -15,7 +15,7 @@ def plot_confusion_matrix(cm, classes, ax=None,
     From 
     """
     
-    if not ax: fig, ax = plt.subplots(figsize=(8,6))
+    if not ax: fig, ax = plt.subplots(figsize=figsize)
     ax.imshow(cm, interpolation='nearest', cmap=cmap)
     tick_marks = np.arange(len(classes))
     plt.setp(ax, xticks=tick_marks, xticklabels=classes, 
