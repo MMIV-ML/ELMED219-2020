@@ -59,11 +59,17 @@ Du kan også bruke [JupyterLab](https://github.com/jupyterlab/jupyterlab): `jupy
 
 ## Oppdater
 Koden og omgivelsene oppdateres underveis i kurset. Kjør følgende kommandoer regelmessig:
-* Update code: `git pull`
-* Update environment: 
+* Oppdater kode: 
+```bash
+cd ELMED219-2020
+git pull
+```
+* Oppdater Python-omgivelser: 
 ```bash
 conda activate elmed219
 conda env update
 ```
 
 # Troubleshooting
+## Feilmelding ved `git pull`?
+Har du editert en av filene fra repositoriet lokalt? I så fall får du versjonskonflikt. Husk å jobbe på *kopier* av notebooks, ikke på orginalene for å unngå dette. En kjapp fiks (NB: vil overskrive dine lokale endringer så du bør ta en kopi først) er: `git checkout [navnet-på-filen-med-konflikt]`. Hvis du vil lære om hvordan man *egentlig* skal bruke Git, se f.eks. [her](https://rogerdudler.github.io/git-guide/).
