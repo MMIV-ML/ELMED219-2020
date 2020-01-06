@@ -25,6 +25,8 @@ conda install git
 ### Last ned repositoriet: 
 ```bash
 git clone https://github.com/MMIV-ML/ELMED219-2020
+```
+```bash
 cd ELMED219-2020
 ```
 ### Konfigurer Python-omgivelsene
