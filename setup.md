@@ -2,6 +2,8 @@
 
 Her er en oppskrift du kan følge dersom du ønsker å bruke din egen maskin under ELMED219. Alternativt kan du bruke f.eks. [Google Colab](https://colab.research.google.com/) eller [Deepnote](https://www.deepnote.com); mer informasjon om disse kommer.
 
+Se *Troubleshooting* nederst i dette dokumentet dersom du støter på problemer.
+
 ## Anaconda
 Vi anbefaler at du installerer Python via [Anaconda Distribution](https://www.anaconda.com/distribution). Pass på å velge "Python 3.7 version. Vi skal bruke Conda Package Management System, som kommer med Anaconda Distribution. Fra [dokumentasjonen](https://conda.io/docs):
 > Conda is an open source package management system and environment management system that runs on Windows, macOS and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer. 
