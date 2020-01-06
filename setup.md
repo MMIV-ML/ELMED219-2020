@@ -73,3 +73,6 @@ conda env update
 # Troubleshooting
 ## Feilmelding ved `git pull`?
 Har du editert en av filene fra repositoriet lokalt? I så fall får du versjonskonflikt. Husk å jobbe på *kopier* av notebooks, ikke på orginalene for å unngå dette. En kjapp fiks (NB: vil overskrive dine lokale endringer så du bør ta en kopi først) er: `git checkout [navnet-på-filen-med-konflikt]`. Hvis du vil lære om hvordan man *egentlig* skal bruke Git, se f.eks. [her](https://rogerdudler.github.io/git-guide/).
+
+## Bruker du MacOS og har problemer med installasjonen over?
+Installer [Xcode](https://developer.apple.com/xcode/resources) før du går gjennom stegene over.
