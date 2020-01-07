@@ -1,5 +1,5 @@
 # Om konkurransen
-Se MittUiB
+Se MittUiB [Om prosjektarbeidet](https://mitt.uib.no/courses/21357/pages/om-prosjektarbeidet?module_item_id=115329).
 
 # Kom i gang
 Du kan bruke notebooken [elmed219-2020-getting-started.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2020/blob/master/KaggleInClass/elmed219-2020-getting-started.ipynb) som et utgangspunkt. 
