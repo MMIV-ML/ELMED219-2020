@@ -6,7 +6,7 @@
 
 Dette er repositoriet til kurset [ELMED219: Artificial intelligence and computational medicine](https://www.uib.no/emne/ELMED219), et samarbeid mellom Institutt for biomedisin, Universitetet i Bergen, og Institutt for datateknologi, elektroteknologi og realfag, Høgskulen på Vestlandet. Her vil du finne kode og dokumentasjon knyttet til kursets programmeringsdel. 
 
-Kursets [Canvas side](https://mitt.uib.no/courses/21357) har mer informasjon.
+Kursets [Canvas-side](https://mitt.uib.no/courses/21357) har mer informasjon.
 
 Gå til **[Sett opp din maskin](setup.md)** for å komme i gang.
 
