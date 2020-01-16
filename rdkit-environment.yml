@@ -1,0 +1,16 @@
+name: rdkit
+dependencies:
+- python >= 3.7.0
+- pip
+- ipython
+- ipywidgets
+- jupyter
+- git
+- numpy
+- matplotlib
+- pandas
+- ipykernel
+- conda-forge::rdkit
+- pip:
+  - pip >= 19.0
+  - chembl_webresource_client
