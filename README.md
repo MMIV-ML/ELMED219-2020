@@ -2,7 +2,7 @@
 
 # ELMED219 - Vår 2020
 
-***Under konstruksjon***
+***Se https://github.com/MMIV-ML/ELMED219-2021 for 2021-versjonen***
 
 Dette er repositoriet til kurset [ELMED219: Artificial intelligence and computational medicine](https://www.uib.no/emne/ELMED219), et samarbeid mellom Institutt for biomedisin, Universitetet i Bergen, og Institutt for datateknologi, elektroteknologi og realfag, Høgskulen på Vestlandet. Her vil du finne kode og dokumentasjon knyttet til kursets programmeringsdel. 
 
